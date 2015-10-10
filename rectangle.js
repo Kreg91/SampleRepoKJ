@@ -13,6 +13,7 @@ function drawRectangle(){
     ctx.lineTo(400,400);
     ctx.lineTo(500,500);
     ctx.lineTo(450,450);
+    ctx.lineTo(340,250);
     ctx.closePath();
     ctx.fill();
 };
