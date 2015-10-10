@@ -16,4 +16,4 @@ function drawRectangle(){
     ctx.lineTo(340,250);
     ctx.closePath();
     ctx.fill();
-};
+}
